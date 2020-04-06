@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,3HD
+http://45.76.189.32:80/3hd/index.m3u8
+#EXTINF:-1,5HD
+http://45.76.189.32:80/5hd/index.m3u8
+#EXTINF:-1,7HD
+http://45.76.189.32:80/7hd/index.m3u8
+#EXTINF:-1,Thaipbs
+http://45.76.189.32:80/thaipbs/index.m3u8
+#EXTINF:-1,MCOT HD
+http://45.76.189.32:80/mcot/index.m3u8
+#EXTINF:-1,NBT
+http://45.76.189.32:80/nbt/index.m3u8
+#EXTINF:-1,PPTV
+http://45.76.189.32:80/pptv/index.m3u8
+#EXTINF:-1,ONE HD
+http://45.76.189.32:80/onehd/index.m3u8
+#EXTINF:-1,AMARIN TV
+http://45.76.189.32:80/amarin/index.m3u8
+#EXTINF:-1,THAIRATH TV
+http://45.76.189.32:80/thairath/index.m3u8
+#EXTINF:-1,WORKPOINT
+http://45.76.189.32:80/workpoint/index.m3u8
+#EXTINF:-1,CH8
+http://45.76.189.32:80/ch8/index.m3u8
+#EXTINF:-1,NATION TV
+http://45.76.189.32:80/nation/index.m3u8
+#EXTINF:-1,GMM25
+http://45.76.189.32:80/gmm25/index.m3u8
+#EXTINF:-1,TNN24
+http://45.76.189.32:80/tnn24/index.m3u8
+#EXTINF:-1,TRUE4U
+http://45.76.189.32:80/true4u/index.m3u8
+#EXTINF:-1,MONO29
+http://45.76.189.32:80/mono29/index.m3u8
+#EXTINF:-1,TPTV
+http://45.76.189.32:80/tptv/index.m3u8
 #EXTINF:-1,WARNER TV
 http://live.9koh.com:8000/live/a-play/stream/38.m3u8
 #EXTINF:-1,True Spark Jump
